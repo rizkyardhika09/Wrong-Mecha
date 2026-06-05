@@ -2,7 +2,7 @@
 
 > **📱 Mobile-friendly bible.** Pindah ke Google Drive nanti via copy. Edit di iPhone via Files app → Drive → Wrong Mecha folder. Update Claude pas next session dengan "udah update bible".
 
-> **🔄 Last updated:** EP 1 ✅ Published 1 Jun 2026 | EP 2 🟡 In Production | EP 3-10 outlined
+> **🔄 Last updated:** EP 1-3 ✅ Published | EP 4 🟡 Production STARTED | EP 5+ outlined | 🆕 KAIA AETHERIS introduced (Asian K-pop idol sexy mechanic, Vex's older sister) | Naming locked: Rizky Ardhika / Vexia Aetheris / Kaia Aetheris
 
 ---
 
@@ -38,7 +38,7 @@
 **Format:** YouTube Shorts isekai mecha anime series
 **Episodes:** Season 1 = 10 episodes (~2-3 min each)
 **Tone:** Epic mecha drama with romance subplot, occasional comedy beats
-**Visual Style:** Semi-realistic CG (Pacific Rim x Cyberpunk Edgerunners x Alita)
+**Visual Style:** Semi-realistic CG (Alita Battle Angel + Cyberpunk 2077 + Pacific Rim 2013 practical effects, IMAX captured). NOT anime stylized, NOT Edgerunners style, NOT cartoon.
 **Channel:** Wrong Universe — sub-brand of "What If" channel
 **Engine:** Seedance 2.0 Pro (HD 720p, 9:16, native audio + lip-sync)
 
@@ -123,7 +123,7 @@ Standard Novarii Federation threat assessment.
 ## 🎭 MAIN CHARACTERS <a id="main-characters"></a>
 
 ### RIZ (PROTAGONIST)
-**Full Name:** Riz (intentional self-insert of channel owner Rizky)
+**Full Name:** **Rizky Ardhika** (Earth name — intentional self-insert of channel owner). On Aeden goes by "Riz" — short, alien-friendly, sounds like a Novarii name coincidentally.
 **Background:** Indonesian young adult, isekai'd from Jakarta
 **Origin:** Bored office worker in modern Jakarta
 **Personality:** Reluctant, anxious overthinker, dry humor under stress, kind heart, shows mercy
@@ -140,17 +140,114 @@ Standard Novarii Federation threat assessment.
 ---
 
 ### CAPTAIN VEX (RIVAL → ROMANCE)
+**Full Name:** **Vexia Aetheris** (Novarii naming convention: personal name + clan name). Called "**Vex**" by everyone — short form + military callsign. "Captain Vex" = official military designation.
 **Role:** Novarii elite pilot, Captain MEK commander
 **Physical:** Asian K-pop idol beauty, long flowing emerald green hair, piercing green eyes, sharp delicate features, slight confident smirk
 **Outfit:** Stylish Novarii pilot suit white+red+blue+gold (high-collar tailored, NOVARII FEDERATION text on chest)
-**Personality:** Confident professional, dry sarcasm, skeptical of outsiders, deeper warm side under armor
-**Voice:** Cool composed, slight accent
+**Personality:** Confident professional, dry sarcasm, skeptical of outsiders, deeper warm side under armor. **Around Kaia → full TSUNDERE mode** (denial, blushing, occasional violence threats when Kaia goes too far). Around Riz post-EP3 → softer protective.
+**Voice:** Cool composed, slight accent. When fluster from Kaia teasing → voice cracks louder.
 
 **Visual master:** `Captain Vex.jpg`
 
 **Hometown:** Crystal Spires of Solanis (fell 3 years ago — lost mother + sister to Hollowmen)
 **Arc:** Skeptical guide Ep 1 → wounded by Sky-Reaper Ep 2-3 → caretaker bond Ep 3 → battle partner Ep 5-6 → confession Ep 10
 **Becomes new Captain (post-Tech-Prime) Ep 10**
+
+**Family:** Older sister **KAIA AETHERIS** alive (Master Engineer, see below). Mother + younger sister killed at Solanis 3 years ago.
+
+---
+
+### KAIA AETHERIS (COMIC RELIEF + NAUGHTY BIG SISTER + MECHANIC GENIUS) — DEBUTS EP 5
+**Full Name:** **Kaia Aetheris** (shares clan name with Vex — sisters)
+**Role:** Senior MEK Technician, Master Engineer of Novarii Engineering Corps
+**Relationship:** Vex's **older sister** (12-year gap — Kaia 29, Vex ~17-18)
+
+**Archetype Layer Cake:**
+- 🔧 **Base:** Quirky comedic genius engineer (Hange Zoë vibes)
+- 😏 **Spice:** Flirty mesum lucu (PG-13 anime suggestive — Cana Alberona × Marin Kitagawa)
+- 😈 **Sister:** Jail/usil specifically to torment Vex (older sister tease energy)
+- 💕 **Heart:** Genuine deep love for Vex + protective core
+
+**Tone Reference:** PG-13 anime suggestive (Konosuba/Fairy Tail level). NEVER explicit. Innuendo via metaphor only (MEK, sync rate, "tuning" jokes). Safe for YouTube monetization + Indonesian audience.
+
+**Physical:**
+- **Asian K-pop idol beauty** (matching Vex's high-fashion aesthetic, distinctly her own look)
+- Long silky black hair styled sleek with **subtle purple and cyan highlight streaks** (NOT messy, side-swept bangs)
+- Large emerald green eyes (Alita-style expressive), light smoky eyeshadow
+- Delicate refined features, soft nude-pink lipstick, slight playful confident smile, small beauty mark near lip
+- Fit athletic figure (167cm), photorealistic flawless skin, light freckles on nose
+- Small oil smudge on cheek (signature engineer mark)
+- **Outfit:** White lab coat worn open and loose, fitted white ribbed crop top, high-waisted blue denim shorts, knee-high black socks, brown leather utility belt with hanging tools, ankle work boots, fingerless leather gloves
+- **Multiple goggles** stacked on forehead (always switching lenses)
+- Cat-eye glasses positioned low on nose bridge (peering over them)
+- Cybernetic gauntlet on right arm — glows blue when thinking hard (sleek streamlined, NOT bulky)
+- Thin gold choker, small hoop earrings
+- Energetic body language — leans in close to people's personal space without warning
+
+**Personality:**
+- Brilliant but scattered, talks fast, makes sound effects
+- **🌶️ FLIRTS WITH RIZ ON SIGHT** — purely to provoke Vex's reactions (NOT serious romantic pursuit)
+- **🌶️ INNUENDO MASTER** — uses MEK terminology as metaphor ("sync rate", "tuning", "first time", "pegang stick lembut")
+- **🌶️ TEASES VEX MERCILESSLY** — older sister classic harassment (childhood embarrassment stories, ship-teasing, sabotaging romantic moments)
+- Obsessed with MEK upgrades — treats GROUNDPOUNDER-04 like a pet/lover ("Sayang-ku")
+- Forgets to eat/sleep
+- Explosions don't faze her ("Itu mestinya gak meledak. Catat untuk iterasi berikutnya.")
+- Drops insane scientific exposition then dumbs it down for Riz
+- **Drops chaotic + flirty act IMMEDIATELY** when Vex's life on the line — switches to deadly-serious tactical mode
+
+**Voice:** Energetic high-pitch female, rapid-fire delivery. Flirty mode = sultry teasing tone with "~" trailing sounds. Crisis mode = deadly-serious deep voice (audience double-take moment).
+
+**Signature Props:**
+- **"Bessie"** — favorite wrench (she named it, talks to it like a lover)
+- Multi-lens goggles
+- Blue-glow cybernetic gauntlet
+- **Popcorn bucket** (appears whenever Riz × Vex have romantic moment — sabotage prop)
+- **🍷 Wine glass + "Aether Brew"** — Kaia's signature drink (fictional alien beverage, glowing purple-amber liquid in wine glass). Often seen sipping while working on MEK. PG-13 anime convention safe (Cana Alberona × Misato vibes). NO smoking. Bottle ambiguous: looks like wine/cocktail, lore-justified as "Aether Brew" → safe YouTube monetization + Indonesian audience.
+
+**Catchphrases:**
+- "Trial and error ya!" 🔧
+- "Ooh ini MENARIK..." 🔬
+- "Sayang-ku..." (to MEK, also occasionally to Riz to provoke Vex)
+- "Tunggu, tunggu, tunggu..." (when she has wild idea)
+- **"OH HO HO~"** (sultry tease laugh)
+- **"Adikku posesif ya~"** (every time Vex shows jealousy)
+
+**Story Dynamic Patterns:**
+
+| Pattern | Kaia | Riz | Vex |
+|---|---|---|---|
+| **First meeting** | Lean in close, "Tampan juga~" | Panic gugup awkward stutter | Freezes, then "KAIA STOP" |
+| **Innuendo bait** | MEK/sync rate metaphor | "...apa maksudnya?" | "JANGAN DENGERIN DIA" + violence threat |
+| **Workshop invite** | "Privat~ Berdua aja~" | "Eh Vex ikut kan?!" | "AKU IKUT." |
+| **Almost-kiss sabotage** | Burst in with popcorn | Jumps 2m back | "TIDAK ADA APA-APA—" red face |
+| **Childhood embarrass** | Reveals Vex secret | Tries to escape | Tackles Kaia |
+| **Crisis hits** | Drops act, deadly serious | Trust Kaia tactical | Trust Kaia tactical |
+
+**Backstory:**
+- Former MEK pilot prodigy
+- Switched to engineering after Solanis fell — couldn't save mother + younger sister
+- Channels grief into building the BEST damn machines so no one else loses family
+- Hides trauma behind manic + flirty energy (defense mechanism)
+- Deep down: TERRIFIED of losing Vex, so flirty teasing is twisted expression of "I want her to be happy with someone"
+
+**Arc Season 1:**
+- **EP 5:** Chaos intro + flirty roast Riz + sibling torment Vex → reluctant trainer → respect Riz by end
+- **EP 6:** Comms support during Twin Storm (tactical genius mode + occasional flirty quip on comms)
+- **EP 7:** Drops act → reveals Solanis trauma to Riz (heart-to-heart moment, audience realize flirty mask = pain)
+- **EP 8:** Co-engineer SIEGE MODE Aetheric Cannon (her invention)
+- **EP 9-10:** Survives season, anchor character for Season 2
+
+**Story Function:**
+- Comic relief (audience refresh after heavy drama)
+- Mecha exposition (upgrades explained naturally via dialog)
+- Vex characterization boost (Vex tsundere = dimensional + shippy)
+- **🔥 Romance accelerant** (Kaia teasing FORCES Riz × Vex to confront feelings faster)
+- Series mascot potential (memeable energy, shareability boost massive)
+
+**⚠️ GOLDEN RULE:**
+Kaia flirts with Riz **TO PROVOKE VEX**, NOT serious pursuit. Audience must always feel Riz×Vex = endgame, Kaia = chaos catalyst. **NO actual love triangle** — Kaia is older-sister-energy, not rival.
+
+**Visual master:** TBD — generate `Kaia Engineer.jpg` + `Kaia Wine.jpg` (Aether Brew variant) before EP 5 production. **Style:** Semi-realistic CG (Alita Battle Angel face + Cyberpunk 2077 quality + Pacific Rim 2013 IMAX). Asian K-pop idol beauty, sleek silky black hair with purple/cyan streaks, large emerald eyes, cat-eye glasses, white lab coat over crop tanktop + denim shorts. NOT anime stylized.
 
 ---
 
@@ -188,7 +285,7 @@ Standard Novarii Federation threat assessment.
 - Dual beam sabers (gold hilts, emerald plasma blade)
 - Back-mounted beam rifle (charged long-range shots)
 - **⚡ ARM BLASTER** — Right forearm transforms (panels open + cannon barrel extends), rapid-fire emerald plasma bolts, close-medium range, built-in (no unholster delay). Ep 3 reveal.
-- **💀 PUNISHER STRIKE** — Signature point-blank finisher: MEK grabs enemy head + arm cannon point-blank to face + CHARGE + FIRE. Penetrating plasma → emerald glow from INSIDE → inside-out burst → enemy body crumbles into violet bioluminescent shards + plasma light. Ep 4 debut vs Brute. Triggers 60% power unlock.
+- **💀 PUNISHER STRIKE** — Signature HERO finisher (Heavy Artillery Mode): MEK's right forearm transforms into ENORMOUS battleship-scale artillery cannon (much bigger than ARM BLASTER rapid-fire mode). Loads **TIMER BOMB projectile** (visible blinking red light + countdown beep). Fires point-blank at enemy head — projectile EMBEDS into skull. MEK then PIVOTS 180° + WALKS toward camera HERO WALKAWAY style (Mandalorian/Iron Man cinematic). MASSIVE EXPLOSION ERUPTS BEHIND — enemy body obliterated in fireball + debris + dust cloud. MEK never looks back. Ep 4 debut vs Brute. Triggers 60% power unlock.
 - **🏹 AETHER ARROWS** — Wing-blade detach system: 6 wing-plates detach from back + circle MEK in orbital formation + transform into autonomous flying blades + dart out + STAB through multiple enemy points (joints, weak spots) + immobilize/pin enemy + return to MEK. Duo finisher with Vex's Captain MEK. Ep 6 debut vs Sky-Reaper. Triggers 80% power unlock.
 - **🛡️ Aether Shield** — Round energy dome barrier (Ep 5 emotional unlock when Riz protects Vex)
 - **🔥 SIEGE MODE Aetheric Cannon** (Ep 8 ultimate — RF Online Accretia Striker style transformation, single devastating beam blast vs Leviathan)
@@ -230,7 +327,7 @@ GROUNDPOUNDER-04 unlocks systematically per episode. Each unlock = audience anti
 | 1 | Activated | **50% SEALED** | Wings UNFURLED (aesthetic/glide), all weapons hilted/holstered |
 | **2 (B-Class)** | Full melee combat debut | 50% | Wing-shield + Beam rifle FIRST DRAW + Dual sabers FIRST IGNITION (Scene 11 kill) |
 | **3 (Tier S aftermath)** | **⚡ ARM BLASTER REVEAL — Emotional Unlock** | **50% → 55% UPGRADE** | LEFT hand transforms multi-barrel machine gun blaster (triggered by Vex crash emotional bond moment, Scene 1) + RIGHT hand active beam saber. Combo combat debut Scene 2 (Burrowers + Skitters massacre). Power unlock = MEK responds to bond per Tech-Prime lore. |
-| **4 (A-Class Brute)** | **💀 PUNISHER STRIKE finisher debut** | **50% → 60% UPGRADE** | Point-blank arm cannon execution: grab head + cannon point-blank + penetrating plasma + inside-out burst + crystalline shards. Brute kill triggers power unlock. |
+| **4 (A-Class Brute)** | **💀 PUNISHER STRIKE finisher debut** | **50% → 60% UPGRADE** | MASSIVE artillery cannon transformation + TIMER BOMB projectile embed + HERO WALKAWAY 180° pivot + MASSIVE EXPLOSION behind obliterating enemy. Iconic Mandalorian/Iron Man hero shot. Brute kill triggers power unlock. |
 | **5 (Deeper Vex)** | **🛡️ AETHER SHIELD activation** | **60% → 75% UPGRADE** | Riz protects Vex during Sky-Reaper attack → MEK responds to bond → round energy dome forms |
 | **6 (S-Class Twin Storm)** | **🏹 AETHER ARROWS duo finisher** | **75% → 80% UPGRADE** | Wing-plates detach + orbital formation + autonomous blades stab + PIN Sky-Reaper → Vex Captain MEK delivers killing blow |
 | 7 | Aether shield system upgrade | 80% → 90% | Defensive layer enhanced after PRIME contact |
@@ -255,7 +352,7 @@ GROUNDPOUNDER-04 unlocks systematically per episode. Each unlock = audience anti
 | 1 | **THE SUMMONING** | — | Riz isekai → Novarii reveal → Vex tour → commit → MEK reveal → kaiju cliffhanger | ✅ Published |
 | 2 | FIRST BATTLE | **B-Class** | Scout-Crawler fight, full combat suite debut, **Tier S Sky-Reaper cliffhanger** | 🟡 In Production |
 | 3 | I WANT TO GO HOME | (Tier S threat) | Vex caretaker arc, Tier S retreats, Riz doubt + commitment | ⏳ Outline |
-| 4 | THE BRUTE | **A-Class** | Brute-Punisher 18m, Riz outmatched, MEK damaged | ⏳ Outline |
+| 4 | THE BRUTE | **A-Class** | Brute 25m grappler, HULK throw, terrain trap, **PUNISHER STRIKE debut** (50→60%) | 🟡 Production |
 | 5 | DEEPER VEX | — | Vex relationship deepens, training arc, **Aether Shield unlocks** | ⏳ Outline |
 | 6 | TWIN STORM | **S-Class** | Riz + Vex duo battle, Sky-Reaper FINALLY killed, bond formed | ⏳ Outline |
 | 7 | THE SECRET | S-Class | Riz discovers Hollowmen sentient queen hint, Aether shield system upgrade | ⏳ Outline |
@@ -392,66 +489,165 @@ Hint at Tier A Brute-Punisher emerging from distant horizon — Ep 4 setup
 
 ## 🎬 EPISODE 4: THE BRUTE <a id="episode-4"></a>
 
-**Runtime target:** ~140s (2:20)
-**Status:** ⏳ OUTLINE — Direction LOCKED (Option A immediate fight)
+**Runtime target:** ~164s (2:44)
+**Status:** 🟡 PRODUCTION STARTED — 13 scenes specced (EP4-spec.md)
+**Source:** EP4-spec.md (full Seedance prompts + voice attribution + asset refs)
 
-**Direction (locked):** Brute attacks Novarii Prime immediately after Ep 3 cliffhanger. Riz fights alone to protect Vex (still in medical bay) + Novarii HQ. Brute outmatches Riz, MEK damaged badly. Desperate moment — Riz activates PUNISHER STRIKE first time (point-blank arm cannon charged finisher). Brute defeated. Triggers 55% → 60% power upgrade.
+**Direction (locked v2):** Brute (25m Tier-A) attacks immediately after Ep 3 cliffhanger. **Vex still recovering in Med Bay (NOT in cockpit).** Riz fights ALONE in MEK. Brute = brutal grappler (HULK throw style). MEK loses saber + wing damaged. Tech-Prime guides via comm but limited. **Vex regains consciousness mid-battle**, rips IV out, **limps (tertatih) through corridors** to Command Room, takes over central console. **VEX becomes battle commander** — coordinates Riz's tactical maneuvers. Coordination unlocks PUNISHER STRIKE via BOND (Vex: "You have the MEK. And you have me."). Brute defeated. **Vex collapses from effort → Riz sprints from MEK, catches her in his arms** at Command Room. Romance peak. Tech-Prime warns Sky-Reaper coming. Cliffhanger.
 
 ### Story Arc
-Brute-Punisher (A-Class, 18-20m hulking smasher) attacks Novarii outpost. Vex still recovering — Riz must fight alone. Tech-Prime via comm. Brute = pure brute force, much bigger than Scout-Crawler. Riz brings full Ep 2 arsenal (sabers + rifle + wing-shield) but BRUTE OUTMATCHES him. MEK gets damaged badly — wing torn, beam rifle destroyed, one saber lost. Riz desperate. Vex (from medical bay) sees battle on monitor, drags herself to comm: "Pilot — fight smart, not hard. Use the terrain." Riz retreats strategically, lures Brute into crystal pillar collapse. Trap works. Brute pinned. Riz delivers killing strike with last remaining saber. Pyrrhic victory — MEK severely damaged. Tech-Prime: "We need to repair... and prepare. Something bigger comes."
+Brute-Punisher (A-Class, 25m hulking grappler) attacks Novarii Prime exterior. Vex still unconscious in Med Bay from Sky-Reaper injury — Riz must fight ALONE in MEK. Tech-Prime via comm. Brute outmatches Riz — MEK damaged badly, right saber lost mid-throw, right wing 3 feathers shattered, shoulder armor torn. **Mid-battle Vex regains consciousness** in med bay, sees battle on holographic display. Rips IV out. **Limps (tertatih) through Novarii corridors** to Command Room. Bursts in past shocked officers + Tech-Prime. **Takes over central command console.** Coordinates Riz's tactical maneuvers via comm — sidestep timing, pillar trap setup. Crystal pillar collapses pinning Brute. Riz: "I have nothing left." Vex (emotional, firm): "You have the MEK. And you have me." MEK responds to bond → **ARM BLASTER unlocks** → PUNISHER STRIKE executes (inside-out burst with crystalline shards). 50%→60% power unlock. Vex exhausted by effort, sways at console. Riz exits MEK, sprints through corridors, bursts into Command Room as Vex's knees buckle. **Riz catches Vex in his arms.** Romance peak. Tech-Prime: "Repairs will take time. And the Sky-Reaper... it's coming back."
 
-### Key Beats
-- Brute-Punisher arrival (size comparison shocks Riz)
-- Initial confrontation — Riz uses all weapons (sabers + rifle + arm cannon + wing-shield)
-- Riz outmatched — beam rifle destroyed, 1 saber lost, wing torn, MEK damaged
-- Vex weak guidance via comm
-- Strategic retreat
-- Crystal pillar trap pins Brute
-- **💀 PUNISHER STRIKE first activation** — desperate moment: MEK grabs Brute head + ARM BLASTER point-blank to face + plasma CHARGES + FIRES penetrating shot + emerald glow from INSIDE Brute head + INSIDE-OUT BURST + body crumbles into violet bioluminescent shards + plasma light
-- **⚡ POWER UNLOCK 50% → 60%** — HUD updates post-kill, Tech-Prime: "The MEK opens further. You've earned its trust."
-- Aftermath — MEK repair shop reveal, Riz exhausted
+### Scene Flow (13 scenes — locked v2)
+| # | Scene | Duration | Function |
+|---|---|---|---|
+| 1 | Brute Cold Open + Riz Alone | 15s | SHOCK hook + establish Vex out of action |
+| 2 | First Clash + Vex Med Bay | 15s | Action + plant Vex storyline (unconscious bio-bed) |
+| 3 | HULK Throw + Vex Stirs | 15s | MEK lose saber + Vex eyelids flutter |
+| 4 | Tech-Prime + Vex Eyes Open | 13s | Riz desperate + Vex fully awake |
+| 5 | 💪 Vex Pulls Herself Up | 15s | IV rip + collapse + rise determined (AUDIENCE HOOK) |
+| 6 | Pillar Trip + Vex Limping | 13s | Riz tactical beat + Vex tertatih corridor |
+| 7 | Column Throw + Vex Arrives Command | 13s | Brute escalates + Vex bursts Command Room |
+| 8 | 🎯 Vex Takes Command | 15s | ICONIC ROLE REVERSAL — Vex commander, Riz soldier |
+| 9 | Coordinated Combat + Taunt | 14s | Vex calls shots + "Come and get me, big guy" |
+| 10 | 💎 Crystal Pillar Trap | 15s | Vex coordinates sidestep + pillar pins Brute |
+| 11 | 💀 PUNISHER STRIKE + Vex Bond | 15s | Vex: "You have me." → MASSIVE CANNON unlock → TIMER BOMB embed → HERO WALKAWAY + EXPLOSION behind |
+| 12 | ⚡ Power Unlock + Vex Falters | 12s | 50%→60% HUD + Vex sways exhausted |
+| 13 | 💕 VEX COLLAPSE + Sky-Reaper | 22s | Riz sprints from MEK → catches collapsing Vex → cliffhanger |
 
-### Key Dialog
-- Tech-Prime: "A-Class confirmed. Brute-Punisher. Be careful."
-- Riz: "It's TWICE the size of the last one!"
-- Vex (weak comm): "Pilot — don't fight hard. Fight smart. Use the terrain."
-- Riz: "...I lost a saber. Wing's torn. I need to think."
-- Riz (executing plan): "Come and get me, big guy."
+### Key Dialog (English — all dialog English per series convention)
+**Scene 1:**
+- Tech-Prime: "A-Class confirmed. Brute-Punisher. Riz, you're alone — Vex is still in medical."
+- Riz: "I know."
+
+**Scene 4:**
+- Tech-Prime: "Don't fight hard. Fight SMART. Use the terrain."
+- Vex (whispered awakening): "...Riz."
+
+**Scene 5:**
+- Vex (whispered, determined): "...I have to..."
+
+**Scene 7:**
+- Tech-Prime (shocked): "Vex—! You shouldn't be—"
+- Vex (firm weak): "Move."
+
+**Scene 8 (ROLE REVERSAL):**
+- Vex (commanding via comm): "Riz."
+- Riz: "...Vex? You're awake?"
+- Vex: "Focus on me. I have eyes on you. The largest crystal pillar — your 2 o'clock — partially fractured. Lead him there."
+- Riz: "Yes, Captain."
+
+**Scene 9:**
+- Vex: "Lure him. Make him angry. Provoke."
+- Riz (taunt): "Come and get me, big guy."
+
+**Scene 10:**
+- Vex (sharp): "NOW. SIDESTEP RIGHT. JUMP!"
+- Vex (after trap): "He's down. Brute pinned. Riz... finish it."
+
+**Scene 11 (BOND UNLOCK PEAK):**
+- Riz: "Vex... I have nothing left. No saber. Just one arm."
+- Vex (emotional firm): "You have the MEK. And you have me."
+- Vex (whisper intimate): "Trust it, Riz. Trust YOURSELF."
+- Riz (cold finisher): "Punisher... Strike."
+
+**Scene 12:**
+- Tech-Prime (awed): "The MEK opens further. The bond..."
+- Vex (weak smile): "You did good... pilot..."
+
+**Scene 13 (ROMANCE PEAK):**
+- Vex (weak whisper, collapsing): "...you did good, pilot."
+- Riz (voice breaking, catching her): "Thanks to you. All of it."
+- Tech-Prime: "Repairs will take time. And the Sky-Reaper... it's coming back."
 
 ### Cliffhanger
-MEK heavily damaged in repair shop. Tech-Prime: "Repairs will take time. And the Sky-Reaper... it's coming back." Outside: Sky-Reaper silhouette in distance.
+Riz holds collapsed Vex bridal-style in Command Room. Sky-Reaper silhouette circling distant sunset sky. Text overlay: "NEXT EP — TWO ENEMIES AT ONCE"
 
 ---
 
 ## 🎬 EPISODE 5: DEEPER VEX <a id="episode-5"></a>
 
-**Runtime target:** ~135s (2:15)
-**Status:** ⏳ OUTLINE
+**Runtime target:** ~140s (2:20)
+**Status:** ⏳ OUTLINE — KAIA DEBUT
+**New character:** 🔧 **KAIA AETHERIS** (Vex's older sister, comedic genius engineer)
 
 ### Story Arc
-Recovery + training arc. MEK in repair. Riz trains in simulation. Vex recovered (back to fighting form). They bond during training sessions — sparring, simulator runs. Vex teaches Riz advanced techniques. Romantic tension builds. Vex shares more about her past (training as captain, lost squad). Riz shares Jakarta life (mundane vs alien adventure). They almost kiss but Tech-Prime interrupts (comedy beat). Then: training simulator emergency — Sky-Reaper detected in real world, attacking civilian transport. They scramble. Vex damaged Captain MEK still under repair — she rides as PASSENGER in Riz's GP-04. They fly out together. ⭐ **EMOTIONAL UNLOCK MOMENT** — when Sky-Reaper attacks them both, Riz instinctively protects Vex (shielding her position in cockpit) → **Aether Shield system ACTIVATES first time** (round energy dome forms around MEK). Sky-Reaper deflected. Tech-Prime amazed: "The MEK... it responded to your bond."
+Aftermath of EP 4 Brute fight. GROUNDPOUNDER-04 heavily damaged in repair hangar. Riz wakes up dengan trauma fresh. Walks to hangar to check on MEK — finds **MANIC LAUGHTER + sparks flying from inside cockpit**. Meet **KAIA** — Vex's older sister, master engineer, hasn't slept in 4 days, dirty lab coat covered in oil, multi-lens goggles askew. Comic chaos first impression. Riz initially thinks she's homeless mechanic. Vex enters (recovered, walking on her own) — **sibling reunion** reveals Kaia identity. Kaia roasts Riz brutally ("Sync rate kamu sampah. MEK ini hampir mati karena kamu."). Reluctant trainer mode activates. Training montage — Kaia testing wild weapon upgrades on Riz inside MEK (some painful). Vex watches, occasional tease at her chaotic sister. **Bonding sequence** — Riz + Vex share quiet moment between training sessions, almost-kiss interrupted by Kaia bursting in ("OOH AKU DAPAT IDE BARU!"). Then: emergency — Sky-Reaper detected, attacking civilian transport. They scramble. Vex Captain MEK still under repair — she rides PASSENGER in Riz's GP-04 (callback EP 1!). Kaia runs comms support from hangar. ⭐ **EMOTIONAL UNLOCK MOMENT** — Sky-Reaper attacks them both, Riz instinctively protects Vex → **Aether Shield ACTIVATES first time** (round energy dome). Sky-Reaper deflected. **KAIA SHOCKED** — drops her chaotic act, professional voice: "MEK ini... merespon ikatan kalian." Tech-Prime confirms via comm: "The ancients spoke true."
 
 ### Key Beats
-- MEK repair shop
-- Training montage Riz + Vex
-- Bonding scenes (sparring, simulation)
-- Almost-kiss interrupted (comedy)
+- **🆕 Hangar 3AM intro — Kaia chaos energy reveal**
+- **🆕 Sibling reunion Kaia ↔ Vex (visual + emotional payoff)**
+- **🆕 Kaia roasts Riz (comic relief peak)**
+- Training montage Kaia drilling Riz + chaotic weapon test
+- Riz + Vex bonding quiet moments
+- Almost-kiss interrupted by Kaia (comedy)
 - Sky-Reaper attack on civilians
 - Vex rides passenger in Riz's MEK (callback to Ep 1!)
+- **🆕 Kaia comms support during battle (tactical genius mode)**
 - **AETHER SHIELD first activation (emotional unlock)**
+- **🆕 Kaia drops act when crisis — reveals depth**
 - Sky-Reaper retreats (not killed yet)
 
 ### Key Dialog
-- Vex (training): "You're getting better. Faster reflexes."
-- Riz: "I had a good teacher."
-- (Almost-kiss moment) Tech-Prime: "Apologies for the interruption..."
-- Vex (cockpit): "Just like Episode 1, huh? Different positions this time."
-- Riz: "Stay safe back there."
-- Riz (Sky-Reaper attack): "VEX, HOLD ON!" → AETHER SHIELD activates
-- Tech-Prime: "By the ancients... the MEK responded to your bond."
+
+**🎭 SCENE: First Meeting (Cold Open)**
+- **Kaia (head pops out MEK upside down, manic laugh):** "OH HO HO~ Halo halo halo!"
+- *(crawls out, lensa goggles zoom in muka Riz, lean in close)*
+- **Kaia:** "Ihhh~ pilot baru ya? Tampan juga~ *(turns to camera-ish)* Adikku selera bagus rupanya."
+- **Riz (panic stutter):** "Eh— eh? Adik?"
+- **Kaia (deadpan switch):** "Aku Kaia Aetheris. Kakaknya Vex. Master Engineer."
+- **Riz:** "Oh— OH! Salam kenal—"
+- **Kaia (spice mode back, whisper near ear):** "Salam kenal yang... intim ya nanti, Riz~"
+- *Vex enters, freezes mid-step*
+- **Vex (deadly tone):** "...KAIA."
+
+**🎭 SCENE: Sibling Tease + Embarrassment**
+- **Vex:** "Kaia. Stop. Sekarang."
+- **Kaia (innocent face):** "Apa? Aku cuma welcome pilot baru kita~"
+- **Vex (red face):** "Itu BUKAN welcome itu HARASSMENT—"
+- **Kaia (gasps drama):** "Adikku posesif ya~? *(turn to Riz, evil grin)* Eh Riz — Vex pernah cerita ga? Pas dia kecil dia tidur peluk—"
+- **Vex (charges):** "KAIA AKU SUMPAH AKU TEMBAK—"
+- **Kaia (skips away):** "WKWKWK rahasia keluarga~"
+
+**🎭 SCENE: Trainer Mode Switch**
+- **Kaia (suddenly dead serious, no flirty):** "Oke. Beneran sekarang. Sync rate kamu sampah. Posisi tangan saat Punisher Strike juga salah. MEK ini hampir mati gara-gara kamu. Mulai sekarang, gue yang nentuin kamu hidup atau mati di battlefield. Paham?"
+- **Riz (gulps):** "...paham."
+- **Kaia (smile back):** "Bagus~ *(spice resumes)* Sekarang... pegang stick MEK yang LEMBUT ya, Riz~ Kayak pegang... *(slow)* ...tangan adikku. Pelan-pelan~"
+- **Vex (over comm, voice crack):** "KAIA CODE LANGSUNG ATAU AKU TEMBAK KAMU."
+
+**🎭 SCENE: Workshop Invite (Innuendo)**
+- **Kaia (mid training):** "Riz~ malam ini ke workshop aku ya? Kita... *(slow)* ...tuning MEK kamu. Privat. Berdua aja~"
+- **Riz (panic):** "EH? Eh enggak— eh— Vex ikut kan?!"
+- **Vex (instant interjects):** "AKU IKUT."
+- **Kaia (smug grin):** "Aw~ adikku jealous ya~ Cute banget~"
+- **Vex (looks away, red):** "Aku BUKAN jealous."
+
+**🎭 SCENE: Bonding Moment (Riz × Vex)**
+- **Vex (quiet, soft):** "You're getting better. Faster reflexes."
+- **Riz:** "I had a good teacher."
+- *(eyes meet, leaning in slowly...)*
+
+**🎭 SCENE: Almost-Kiss Sabotage**
+- **Kaia (bursts in with popcorn bucket):** "OOH AKU DAPAT IDE— *(stops, sees them frozen)* — OH HO HO~ apakah aku mengganggu sesuatu?"
+- **Vex (jumps 2m away):** "TIDAK ADA APA-APA—"
+- **Kaia:** "Lanjutkan lanjutkan! Anggap aku ga ada~ *(sits down, opens popcorn LOUDLY)* Aku cuma mau nonton adikku akhirnya dapat first kiss—"
+- **Vex (charges):** "KAIA OUT. SEKARANG."
+- **Kaia (skipping out):** "Hati-hati ya Riz, MEK dengerin loh~ sync rate naik kalo... HOT~ WKWKWK—"
+- **Vex (slams door, red, doesn't look at Riz):** "...maafkan kakakku."
+
+**🎭 SCENE: Sky-Reaper Emergency**
+- **Vex (cockpit, passenger):** "Just like Episode 1, huh? Different positions this time."
+- **Kaia (over comm, sultry):** "Ooh~ posisi tertentu ya~?"
+- **Vex (sharp):** "KAIA."
+- **Kaia (deadly serious switch):** "Sky-Reaper closing fast. 200m. Vector northwest. Get ready."
+- **Riz:** "Stay safe back there, Vex."
+- **Riz (Sky-Reaper attack):** "VEX, HOLD ON!" → AETHER SHIELD activates
+- **Kaia (comms, full professional drop chaos):** "MEK ini... merespon ikatan kalian. Tech-Prime, lihat ini."
+- **Tech-Prime:** "By the ancients... the MEK responded to your bond."
+- **Kaia (back to spice, soft):** "Ooh~ Aether Shield aktif dari... ikatan emosional? *(murmurs)* Adikku akhirnya dapat someone."
 
 ### Cliffhanger
-Aether Shield unlocked. Vex looks at Riz differently. Sky-Reaper retreats but circles in distance — third encounter coming.
+Aether Shield unlocked. Vex looks at Riz differently. Kaia smiles knowingly at hangar — picks up wrench Bessie: "Sayang-ku... saatnya kita bikin senjata yang lebih besar." Sky-Reaper retreats but circles in distance — third encounter coming.
 
 ---
 
@@ -781,16 +977,4 @@ Riz + Vex stand together watching twin moons. GP-04 + Captain MEK in background.
 ## 📝 EDIT INSTRUCTIONS
 
 **Mobile workflow:**
-1. Open file di iPhone Files app → Google Drive → Wrong Mecha folder
-2. Edit langsung (atau open with Documents by Readdle for better UX)
-3. Save → auto-syncs to Google Drive → laptop sync
-4. Next Claude session: tell Claude "udah update Wrong Mecha S1 Bible, baca lagi sebelum lanjut"
-
-**For Claude (next sessions):**
-- File path: `D:\DIKA\Wrong Universe\Wrong Mecha\Wrong Mecha S1 Bible.md`
-- Read latest version sebelum continue Ep production
-- Use as canonical reference for character/lore consistency
-
----
-
-**📅 BIBLE VERSION 1.0** — Created 2 Jun 2026, includes all progress + revisions from EP 1 published + EP 2 in production. Story arcs Eps 3-10 outlined; expand detail as production progresses.
+1. Open file di iPhone
