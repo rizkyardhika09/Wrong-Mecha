@@ -1,5 +1,7 @@
 # WRONG MECHA — STORY BIBLE SEASON 1 (Bahasa Indonesia)
 
+> ⚠️ **PERSONAL REFERENCE ONLY.** Semua konten video (judul YouTube, deskripsi, dialog, comment, social media, thumbnail text) WAJIB **PURE ENGLISH**. Lihat `LANGUAGE-CONVENTIONS.md`. Bible Indonesia ini cuma untuk referensi narasi personal — JANGAN paste ke YouTube/social media.
+
 > **📱 Mobile-friendly bible.** Versi Indonesia untuk reading + editing di iPhone. Versi English (`Wrong Mecha S1 Bible.md`) tetap canonical untuk production prompts.
 
 > **🔄 Last updated:** EP 1-3 ✅ Published | EP 4 🟡 Produksi DIMULAI | EP 5+ outlined | 🆕 KAIA AETHERIS (kakak Vex, Asian K-pop idol sexy mechanic) | Nama: Rizky Ardhika / Vexia Aetheris / Kaia Aetheris
@@ -951,4 +953,16 @@ Riz + Vex berdiri bersama menonton twin moons. GP-04 + Captain MEK di background
 **Mobile workflow:**
 1. Buka file di iPhone Files app → Google Drive → folder Wrong Mecha
 2. Edit langsung (atau buka dengan Documents by Readdle / Obsidian untuk UX lebih baik)
-3. Sa
+3. Save → auto-sync ke Google Drive → laptop sync
+4. Session Claude berikutnya: bilang ke Claude *"udah update Wrong Mecha S1 Bible Indonesia, baca lagi sebelum lanjut"*
+
+**Untuk Claude (sesi berikutnya):**
+- File path: `D:\DIKA\Wrong Universe\Wrong Mecha\Wrong Mecha S1 Bible (Indonesia).md`
+- Baca versi terbaru sebelum lanjut produksi Episode
+- Gunakan sebagai referensi canonical untuk consistency karakter/lore
+
+---
+
+**📅 BIBLE VERSI 1.0 (Indonesia)** — Dibuat 2 Jun 2026, include semua progress + revisi dari EP 1 published + EP 2 in production. Story arc Ep 3-10 outlined; expand detail saat produksi progress.
+
+**🌐 English version:** `Wrong Mecha S1 Bible.md` (canonical untuk Claude production reference)

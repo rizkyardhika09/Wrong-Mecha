@@ -1,19 +1,20 @@
 # 🚀 EP 4 UPLOAD PACKAGE — Ready to Copy-Paste
 
-> **Schedule:** 17:00 WIB (prime time YouTube Shorts after-work scroll peak)
+> **Language:** PURE ENGLISH (matches video dialog convention)
+> **Schedule:** 17:00 WIB (prime time YouTube Shorts)
 > **Thumbnail:** Wrong Mecha EP 4 cover (MEK hero walkaway + WRONG MECHA branding) ✅
-> **Audio:** Cinematic Symphony of Steel + Keys To Unravel mix ✅
+> **Audio:** Cinematic Symphony of Steel + Keys To Unravel ✅
 > **Status:** READY TO UPLOAD
 
 ---
 
-## 📝 TITLE (paste sebagai title)
+## 📝 TITLE (paste as title)
 
 ```
 Wrong Mecha EP 4 — The Brute | Isekai Mecha Series 🤖💥 #shorts
 ```
 
-**Backup title variations:**
+**Backup variations:**
 ```
 Wrong Mecha EP 4 — Punisher Strike UNLOCKED 💀⚡ Isekai Mecha #shorts
 ```
@@ -23,76 +24,76 @@ EP 4: The Brute | Wrong Mecha — Vex Awakens 💕 #shorts #anime
 
 ---
 
-## 📄 DESCRIPTION (paste sebagai description)
+## 📄 DESCRIPTION (paste as description)
 
 ```
-EPISODE 4: Brute kaiju Tier-A muncul langsung setelah cliffhanger EP 3. 
-Vex masih recovery di Med Bay — Riz harus fight ALONE. MEK damaged, 
-saber lost, sayap robek...
+EPISODE 4: A Tier-A Brute kaiju attacks right after EP 3 cliffhanger. 
+Vex is still recovering in Med Bay — Riz has to fight ALONE. MEK damaged, 
+saber lost, wing torn...
 
-Trus Vex bangun. Tertatih ke Command Room. Take over.
+Then Vex wakes up. Limps to the Command Room. Takes over.
 
 "You have the MEK. And you have me."
 
 💀 PUNISHER STRIKE — UNLOCKED.
 
-Tapi Sky-Reaper... dia datang kembali.
+But the Sky-Reaper... it's coming back.
 
 ---
 
-📺 NONTON FULL SERIES (playlist):
-[paste link playlist Wrong Mecha di sini]
+📺 WATCH FULL SERIES (playlist):
+[paste Wrong Mecha playlist link]
 
-🔔 SUBSCRIBE biar gak ketinggalan EP 5 (Sky-Reaper return + NEW CHARACTER reveal 👀)
+🔔 SUBSCRIBE for EP 5 (Sky-Reaper return + NEW CHARACTER reveal 👀)
 
 #WrongMecha #IsekaiMecha #MechaAnime #Anime #Shorts #WrongUniverse 
-#GundamStyle #PacificRim #IsekaiSeries #IndonesianAnime
+#GundamStyle #PacificRim #IsekaiSeries #MechaSeries
 ```
 
 ---
 
-## 🏷️ TAGS (paste di tags field)
+## 🏷️ TAGS (paste in tags field)
 
 ```
 wrong mecha, isekai mecha, mecha anime, anime, shorts, wrong universe, 
 gundam, pacific rim, mecha series, anime shorts, isekai series, 
-indonesian anime, mecha battle, kaiju anime, punisher strike, brute kaiju
+mecha battle, kaiju anime, punisher strike, brute kaiju
 ```
 
 ---
 
-## 📌 PINNED COMMENT (post setelah upload)
+## 📌 PINNED COMMENT (post after upload)
 
-### Pilihan A — Prediction Hook (RECOMMENDED 🔥)
+### 🏆 Option A — Prediction Hook (RECOMMENDED)
 
 ```
 EP 4 IS HERE 🔥 Punisher Strike unlocked thanks to Vex 💕
 
-Yang paling lu suka di EP 4?
-1️⃣ Vex tertatih ke Command Room (tearjerker)
+What was your favorite moment in EP 4?
+1️⃣ Vex limping to the Command Room (tearjerker)
 2️⃣ "You have the MEK. And you have me." (chills)
 3️⃣ Punisher Strike point-blank HEAVY ARTILLERY 💀
-4️⃣ Riz catch Vex bridal-style 💕
+4️⃣ Riz catching Vex bridal-style 💕
 
-Comment di bawah! 👇
+Comment below! 👇
 
-EP 5 BESOK — Sky-Reaper return + NEW CHARACTER reveal 👀
+EP 5 TOMORROW — Sky-Reaper return + NEW CHARACTER reveal 👀
 
 #WrongMecha #IsekaiMecha
 ```
 
-### Pilihan B — Hype Tease
+### Option B — Hype Tease
 
 ```
 🔥 EP 4 LIVE 🔥
 
 Punisher Strike — HEAVY ARTILLERY MODE UNLOCKED.
 
-Tapi yang bikin Riz survive? Vex.
+But the reason Riz survived? Vex.
 
 "You have the MEK. And you have me." 💕
 
-EP 5 BESOK — Sky-Reaper return + something is COMING 👀
+EP 5 TOMORROW — Sky-Reaper return + something is COMING 👀
 
 Subscribe + bell 🔔
 ```
@@ -101,7 +102,7 @@ Subscribe + bell 🔔
 
 ## 🎬 CTA OVERLAY (in-video text, optional)
 
-Tambahin di akhir video via CapCut text overlay:
+Add at end of video via CapCut text overlay:
 ```
 NEXT EP — TWO ENEMIES AT ONCE
 TOMORROW 17:00 WIB
@@ -116,12 +117,12 @@ TOMORROW 17:00 WIB
 ```
 Wrong Mecha EP 4: The Brute 🤖💥
 
-Vex tertatih dari Med Bay → take over Command Room → 
-unlock Punisher Strike untuk Riz.
+Vex limps from Med Bay → takes over Command Room → 
+unlocks Punisher Strike for Riz.
 
 "You have the MEK. And you have me." 💕
 
-Full episode di YouTube → link in bio
+Full episode on YouTube → link in bio
 #WrongMecha #IsekaiMecha #MechaAnime #Reels
 ```
 
@@ -129,12 +130,12 @@ Full episode di YouTube → link in bio
 ```
 EP 4 Wrong Mecha 🔥
 
-Yang paling chills:
+The chills moment:
 "You have the MEK. And you have me." 💕
 
 Punisher Strike unlocked. 💀
 
-Follow buat EP 5 besok!
+Follow for EP 5 tomorrow!
 #WrongMecha #anime #mecha #fyp #isekai
 ```
 
@@ -150,7 +151,7 @@ Follow buat EP 5 besok!
 ☐ Visibility: PUBLIC scheduled 17:00 WIB
 ☐ Category: Entertainment / Animation
 ☐ Audience: Not made for kids
-☐ Language: Indonesian
+☐ Language: English (or Indonesian if preferred for metadata)
 ☐ Subtitles language: Indonesian + English (auto)
 ☐ Add to PLAYLIST: Wrong Mecha — Full Series
 ☐ #shorts in title confirmed
@@ -159,14 +160,14 @@ Follow buat EP 5 besok!
 ## ✅ POST-UPLOAD CHECKLIST (after 17:00 live)
 
 ```
-☐ Post pinned comment (Pilihan A)
-☐ Update EP 3 pinned comment dengan "EP 4 IS LIVE! 👉 [link]"
+☐ Post pinned comment (Option A)
+☐ Update EP 3 pinned comment with "EP 4 IS LIVE! 👉 [link]"
 ☐ Cross-post IG Reels
 ☐ Cross-post TikTok
-☐ Reply ke first 5 comments (algo boost)
+☐ Reply to first 5 comments (algo boost)
 ☐ Check first hour CTR (target >5%)
 ☐ Monitor feed % via YT Studio Mobile
-☐ Screenshot stats untuk tracking
+☐ Screenshot stats for tracking
 ```
 
 ---
@@ -189,4 +190,4 @@ Follow buat EP 5 besok!
 Consider:
 - Upload EP 5 schedule 1 day earlier (capitalize momentum)
 - Boost via paid YT promotion ($5-10 test)
-- Reach out micro-creator mecha anime niche untuk reaction/duet
+- Reach out to micro-creator mecha anime niche for reaction/duet

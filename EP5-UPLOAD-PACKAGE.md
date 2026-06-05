@@ -1,14 +1,15 @@
 # 🚀 EP 5 UPLOAD PACKAGE — Ready to Copy-Paste
 
+> **Language:** PURE ENGLISH (matches video dialog convention)
 > **Schedule target:** 17:00 WIB (prime time, day after EP 4)
 > **Theme:** Training arc + KAIA AETHERIS DEBUT 🔧 + Aether Shield unlock
 > **Status:** Draft — finalize after EP 5 production complete
 
 ---
 
-## 📝 TITLE OPTIONS (pilih satu)
+## 📝 TITLE OPTIONS (pick one)
 
-### **🏆 Option A — Kaia Hype (RECOMMENDED)**
+### 🏆 **Option A — Kaia Hype (RECOMMENDED)**
 ```
 Wrong Mecha EP 5 — Vex's SISTER APPEARS 🔧💕 | Isekai Mecha Series #shorts
 ```
@@ -28,44 +29,44 @@ Wrong Mecha EP 5 — Aether Shield UNLOCKED 🛡️⚡ Mecha Anime Series #short
 EP 5: Kaia Debut + Aether Shield 🔧🛡️ | Wrong Mecha Isekai #shorts
 ```
 
-**Gue rec:** **Option A** — character debut = strongest hook for new viewers.
+**Rec:** Option A — character debut = strongest hook for new viewers.
 
 ---
 
-## 📄 DESCRIPTION (paste sebagai description)
+## 📄 DESCRIPTION (paste as description)
 
 ```
-EPISODE 5: Training arc dimulai. Riz recovering dari Brute fight, MEK 
-masih repair.
+EPISODE 5: Training arc begins. Riz is recovering from the Brute fight. 
+MEK still in repair.
 
-Tapi sebelum training, ada satu hal yang gak pernah Riz expect...
+But before training, there's one thing Riz never expected...
 
-Kakak Vex muncul. 🔧
+Vex's sister appears. 🔧
 
-KAIA AETHERIS — mekanik jenius Novarii. Asian K-pop idol beauty + 
-chaotic flirty energy + WAY too flirty buat dijadiin trainer.
+KAIA AETHERIS — Novarii's genius mechanic. Asian K-pop idol beauty + 
+chaotic flirty energy + WAY too flirty to be a trainer.
 
 "Mmm~ new pilot huh? Cute too~ My little sister has good taste."
 
 Vex: "KAIA. STOP."
 
-Lalu — Sky-Reaper terdeteksi serang transport sipil.
+Then — Sky-Reaper detected attacking civilian transport.
 
-Mereka scramble. Vex naik passenger di MEK Riz (Just like Episode 1).
+They scramble. Vex rides passenger in Riz's MEK (just like Episode 1).
 
 ⭐ AETHER SHIELD — UNLOCKED via emotional bond.
 
-Sky-Reaper retreats... tapi Kaia smirks: "He'll be back."
+Sky-Reaper retreats... but Kaia smirks: "He'll be back."
 
 ---
 
-📺 NONTON FULL SERIES:
-[paste playlist Wrong Mecha link]
+📺 WATCH FULL SERIES:
+[paste Wrong Mecha playlist link]
 
-🔔 SUBSCRIBE buat EP 6 (TWIN STORM — Sky-Reaper FINAL KILL 💀⚡)
+🔔 SUBSCRIBE for EP 6 (TWIN STORM — Sky-Reaper FINAL KILL 💀⚡)
 
 #WrongMecha #KaiaAetheris #IsekaiMecha #MechaAnime #Anime #Shorts 
-#WrongUniverse #IsekaiSeries #IndonesianAnime #PacificRim
+#WrongUniverse #IsekaiSeries #MechaRomance #PacificRim
 ```
 
 ---
@@ -75,33 +76,33 @@ Sky-Reaper retreats... tapi Kaia smirks: "He'll be back."
 ```
 wrong mecha, kaia aetheris, isekai mecha, mecha anime, anime, shorts, 
 sky reaper, aether shield, wrong universe, vex aetheris, mecha romance,
-training arc, anime romance, isekai series, indonesian anime, kaia debut,
-mecha series, new character anime
+training arc, anime romance, isekai series, kaia debut, mecha series,
+new character anime
 ```
 
 ---
 
 ## 📌 PINNED COMMENT
 
-### **🏆 Pilihan A — Kaia Chaos Prediction Hook (REC)**
+### 🏆 **Option A — Kaia Chaos Prediction Hook (REC)**
 
 ```
 KAIA AETHERIS IS LIVE 🔧😏
 
-Yang paling lu suka di EP 5?
+What was your favorite moment in EP 5?
 1️⃣ Kaia upside-down "OH HO HO~" intro
 2️⃣ Sibling tease ("KAIA STOP!" 😂)
 3️⃣ Almost-kiss SABOTAGE with popcorn 🍿
 4️⃣ Aether Shield activation 🛡️⚡
 
-Comment dulu 👇
+Comment below 👇
 
-EP 6 BESOK — TWIN STORM. Sky-Reaper + new S-Class kaiju TOGETHER 💀
+EP 6 TOMORROW — TWIN STORM. Sky-Reaper + new S-Class kaiju TOGETHER 💀
 
 #WrongMecha #KaiaAetheris
 ```
 
-### **Pilihan B — Almost Kiss Tease**
+### **Option B — Almost Kiss Tease**
 
 ```
 "You're getting better. Faster reflexes."
@@ -113,12 +114,12 @@ KAIA: "OOH I JUST GOT A NEW IDEA! Oh — am I interrupting something? 😏"
 
 VEX: 💀
 
-EP 6 BESOK — Sky-Reaper FINAL KILL ⚡💀
+EP 6 TOMORROW — Sky-Reaper FINAL KILL ⚡💀
 
 #WrongMecha
 ```
 
-### **Pilihan C — Aether Shield Hype**
+### **Option C — Aether Shield Hype**
 
 ```
 🛡️ AETHER SHIELD UNLOCKED 🛡️
@@ -128,7 +129,7 @@ EP 6 BESOK — Sky-Reaper FINAL KILL ⚡💀
 EP 5 is HERE — Vex's sister Kaia debuts + Riz-Vex bond mechanic 
 confirmed.
 
-EP 6 BESOK — TWIN STORM. Sky-Reaper return. Final kill incoming 💀⚡
+EP 6 TOMORROW — TWIN STORM. Sky-Reaper return. Final kill incoming 💀⚡
 
 #WrongMecha #IsekaiMecha
 ```
@@ -137,7 +138,7 @@ EP 6 BESOK — TWIN STORM. Sky-Reaper return. Final kill incoming 💀⚡
 
 ## 🎨 THUMBNAIL PROMPTS
 
-### **🏆 Concept A — KAIA DEBUT SOLO (REC for character hype)**
+### 🏆 **Concept A — KAIA DEBUT SOLO (REC for character hype)**
 
 ```
 PHOTOREALISTIC LIVE-ACTION MOVIE POSTER, vertical 9:16 thumbnail,
@@ -263,8 +264,8 @@ ASPECT: 9:16 portrait.
 ```
 WRONG MECHA EP 5 — KAIA AETHERIS DEBUT 🔧
 
-Vex's older sister muncul. Mekanik jenius. Asian K-pop idol beauty.
-WAY too flirty buat trainer. 😏
+Vex's older sister appears. Genius mechanic. Asian K-pop idol beauty.
+WAY too flirty to be a trainer. 😏
 
 "Mmm~ new pilot huh? Cute too~ My little sister has good taste."
 
@@ -272,7 +273,7 @@ Vex: "KAIA. STOP." 💀
 
 Plus: AETHER SHIELD UNLOCKED via emotional bond 🛡️⚡
 
-Full episode di YouTube — link in bio
+Full episode on YouTube — link in bio
 #WrongMecha #KaiaAetheris #IsekaiMecha #MechaAnime #Reels
 ```
 
@@ -281,26 +282,26 @@ Full episode di YouTube — link in bio
 ```
 EP 5 Wrong Mecha — sister trouble incoming 🔧😏
 
-Yang paling chills:
+The chills moment:
 "The MEK is responding to your bond." 🛡️⚡
 
-Aether Shield UNLOCKED. Sky-Reaper retreated. Tapi belum mati.
+Aether Shield UNLOCKED. Sky-Reaper retreated. But not dead.
 
-Follow buat EP 6 (Sky-Reaper FINAL KILL) 💀
+Follow for EP 6 (Sky-Reaper FINAL KILL) 💀
 
 #WrongMecha #anime #mecha #fyp #isekai #kaiaaetheris
 ```
 
-### **📸 IG Story Stickers (untuk teaser)**
+### **📸 IG Story Stickers (teaser)**
 
 ```
-Story 1 (Sticker poll):
-"Kaia atau Vex tipe lu? 😏"
+Story 1 (Poll sticker):
+"Which type are you? 😏"
 - Kaia (chaos energy)
 - Vex (tsundere)
 
 Story 2 (Question sticker):
-"Prediksi EP 6? 💀"
+"EP 6 prediction? 💀"
 
 Story 3 (Countdown sticker):
 "EP 6 — TWIN STORM"
@@ -324,21 +325,20 @@ Set countdown to next day 17:00 WIB
 ☐ Visibility: PUBLIC scheduled 17:00 WIB
 ☐ Add to PLAYLIST: Wrong Mecha — Full Series
 ☐ #shorts in title confirmed
-☐ Language: Indonesian
 ☐ Audience: Not made for kids
 ```
 
 ## ✅ POST-UPLOAD CHECKLIST
 
 ```
-☐ Post pinned comment (Pilihan A — Kaia chaos prediction)
+☐ Post pinned comment (Option A — Kaia chaos prediction)
 ☐ Update EP 4 pinned: "EP 5 IS LIVE! 👉 [link]"
 ☐ Cross-post IG Reels (Kaia debut caption)
 ☐ Cross-post TikTok (Kaia + Aether Shield hook)
 ☐ IG Story sticker pack (3 stories)
-☐ Reply ke first 5 comments (algo boost)
+☐ Reply to first 5 comments (algo boost)
 ☐ Check first hour CTR (target >5%)
-☐ Monitor: Kaia clips potential viral
+☐ Monitor: Kaia clips viral potential
 ☐ Screenshot Day 1 stats
 ```
 
@@ -369,5 +369,5 @@ Set countdown to next day 17:00 WIB
 
 - Upload EP 6 schedule 1 day earlier (capitalize)
 - Boost EP 5 via YT paid promotion ($5-10 test)
-- Reach out anime reaction creators (free promo via duet)
+- Reach out to anime reaction creators (free promo via duet)
 - Pin Kaia clip as channel featured

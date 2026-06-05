@@ -49,10 +49,11 @@
 
 ### **4. Setup Bookmark Folders per Container**
 
-Per container, save 3 workflow URLs:
-1. `https://www.canva.com/id_id/login/?redirect=%2Fuser-profile`
-2. `https://temporary-email.net/en`
-3. `https://leonardo.ai/`
+Per container, save 4 workflow URLs:
+1. `https://www.canva.com/id_id/login/?redirect=%2Fuser-profile` — Canva signup/login
+2. `https://temporary-email.net/en` — Disposable email
+3. `https://leonardo.ai/` — Leonardo AI generation
+4. `https://notion.so/cepat-digital/Akses-Tool-Box-Affiliate-Generator-2f3cb7f73bfb80028a2dc2019c7576fc` — Tutorial reference
 
 Folder naming: `Leonardo Acc 01`, `Leonardo Acc 02`, etc.
 
