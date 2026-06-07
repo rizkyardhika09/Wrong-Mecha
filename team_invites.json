@@ -1,0 +1,77 @@
+{
+  "_meta": {
+    "description": "Canva team invite URLs for Leonardo workflow",
+    "last_updated": "2026-06-05T22:00:00",
+    "source": "Notion (cepat-digital workspace)",
+    "owner": "Rizky Ardhika",
+    "important_rule": "USE CREDITS SAME DAY. Don't let fresh accounts sit idle — Canva may flag inactive newly-created accounts.",
+    "smart_selector": "Always pick team with MOST slots remaining first",
+    "total_slots_pool": 604,
+    "potential_credits_pool": 5134000
+  },
+  "teams": [
+    {
+      "name": "Canva 13",
+      "slots_remaining": 91,
+      "invite_url": "https://www.canva.com/brand/join?token=2-vJUix1GmHR4SG9vLM5QQ&referrer=team-invite",
+      "status": "active",
+      "last_updated": "2026-06-05T21:53:00"
+    },
+    {
+      "name": "Canva 20",
+      "slots_remaining": 84,
+      "invite_url": "https://www.canva.com/brand/join?token=lgLh4GlbuR6VB9wpvu9aLw&referrer=team-invite",
+      "status": "active",
+      "last_updated": "2026-06-05T21:58:00"
+    },
+    {
+      "name": "Canva 21",
+      "slots_remaining": 83,
+      "invite_url": "https://www.canva.com/brand/join?token=uLXX0aCm3PkyGp3rOv5-Gg&referrer=team-invite",
+      "status": "active",
+      "last_updated": "2026-06-05T22:00:00"
+    },
+    {
+      "name": "Canva 19",
+      "slots_remaining": 83,
+      "invite_url": "https://www.canva.com/brand/join?token=lXqPfuBEf96tPiknXTO59g&referrer=team-invite",
+      "status": "active",
+      "last_updated": "2026-06-05T21:58:00"
+    },
+    {
+      "name": "Canva 17",
+      "slots_remaining": 78,
+      "invite_url": "https://www.canva.com/brand/join?token=6G0yvtTT_pauDuF0-7mqPA&referrer=team-invite",
+      "status": "active",
+      "last_updated": "2026-06-05T21:56:00"
+    },
+    {
+      "name": "Canva 14",
+      "slots_remaining": 67,
+      "invite_url": "https://www.canva.com/brand/join?token=rJw8R0KlN9pGL7zyr_SOFw&referrer=team-invite",
+      "status": "active",
+      "last_updated": "2026-06-05T21:54:00"
+    },
+    {
+      "name": "Canva 15",
+      "slots_remaining": 63,
+      "invite_url": "https://www.canva.com/brand/join?token=qignuspiHJjc8gWJr18HGg&referrer=team-invite",
+      "status": "active",
+      "last_updated": "2026-06-05T21:55:00"
+    },
+    {
+      "name": "Canva 18",
+      "slots_remaining": 32,
+      "invite_url": "https://www.canva.com/brand/join?token=QyJcE5SIIzgvcIJErPOOnQ&referrer=team-invite",
+      "status": "active",
+      "last_updated": "2026-06-05T21:57:00"
+    },
+    {
+      "name": "Canva 16",
+      "slots_remaining": 23,
+      "invite_url": "https://www.canva.com/brand/join?token=xBzkTF4D7ygp0C2yqleKjg&referrer=team-invite",
+      "status": "active",
+      "last_updated": "2026-06-05T21:55:00"
+    }
+  ]
+}

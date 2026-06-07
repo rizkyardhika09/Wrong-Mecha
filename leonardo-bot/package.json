@@ -1,0 +1,24 @@
+{
+  "name": "leonardo-bot",
+  "version": "1.0.0",
+  "description": "Wrong Mecha Leonardo auto-signup bot",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "build": "pkg . --targets node18-win-x64 --output dist/leonardo-bot.exe"
+  },
+  "bin": "src/main.js",
+  "pkg": {
+    "scripts": ["src/**/*.js"],
+    "assets": ["node_modules/playwright-core/.local-browsers/**/*"],
+    "targets": ["node18-win-x64"]
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  },
+  "devDependencies": {
+    "pkg": "^5.8.1"
+  },
+  "author": "Rizky Ardhika",
+  "license": "MIT"
+}

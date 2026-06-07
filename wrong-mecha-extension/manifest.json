@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "Wrong Mecha Workflow Helper",
+  "version": "1.0.0",
+  "description": "Auto-fill Canva signup, detect verification email, highlight team invite + Leonardo OAuth buttons. Plug-and-play for Wrong Mecha production.",
+  "author": "Rizky Ardhika",
+  "permissions": [
+    "storage",
+    "clipboardWrite"
+  ],
+  "host_permissions": [
+    "https://*.canva.com/*",
+    "https://temporary-email.net/*",
+    "https://*.leonardo.ai/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.canva.com/*",
+        "https://temporary-email.net/*",
+        "https://*.leonardo.ai/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle",
+      "all_frames": false
+    }
+  ],
+  "action": {
+    "default_title": "Wrong Mecha Helper"
+  }
+}
